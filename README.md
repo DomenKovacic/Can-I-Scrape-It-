@@ -1,5 +1,7 @@
 # Can I Scrape It: A Web Scraping Legal Assistant
 
+![Logo](https://github.com/DomenKovacic/Can-I-Scrape-It-/blob/main/Logo.png?raw=true)
+
 ## Overview
 "Can I Scrape It" is an innovative web application designed to provide clarity and guidance on the legal aspects of web scraping. It serves as a tool for developers, data analysts, and researchers to quickly determine whether a website can be scraped, based on the directives found in its `robots.txt` file. This project combines Python's powerful backend capabilities with a user-friendly interface to simplify the often-complex process of interpreting web scraping permissions.
 
