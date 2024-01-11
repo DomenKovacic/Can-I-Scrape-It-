@@ -1,5 +1,3 @@
-![Logo](https://github.com/DomenKovacic/Can-I-Scrape-It-/blob/main/Logo_scaled.png?raw=true)
-
 # Can I Scrape It: A Web Scraping Legal Assistant
 
 ## Overview
