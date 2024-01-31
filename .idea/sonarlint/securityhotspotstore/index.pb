@@ -11,10 +11,5 @@ D
 templates/index.html,f/6/f69b8ce2e31684ae06f1b3e84821e07e3dfddb2f
 @
 static/style.css,e/a/ea7b422455b8b60eb5b1123f19040f20653b36a4
-C
-src/frontend/app.py,5/9/599459e01fbdbd9ce92b26d29b785a3bfb24bf9b
-:
-
-src/app.py,a/c/ac95095330a4a20b1f198c92db70024a198bb660
 6
 app.py,1/3/13cce7fd076299c81b4986166f3d822791c9490e

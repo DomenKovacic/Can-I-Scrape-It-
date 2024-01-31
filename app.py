@@ -12,7 +12,7 @@ def index():
 def check_url():
     url = request.form['url']
     robots_txt_content = fetch_robots_txt(url)
-    return f"Checking URL: {url}\nRobots.txt content:\n{robots_txt_content}"
+    return f"<h2>Checking URL: {url}</h2><h3>Robots.txt content:</h3><pre>{robots_txt_content}</pre>"
 
 def fetch_robots_txt(url):
     parsed_url = urlparse(url)
